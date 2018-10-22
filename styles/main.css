@@ -12,11 +12,15 @@ header {
 }
 
 h1 {
+  position: relative;
+  top:68%;
   font-weight: bold;
   color: hsla(0, 0%, 100%, 0.9);
   color: #fffaf0;
 }
 .slogan {
+  position: relative;
+  top: 66%;
   font-weight: lighter;
   color: hsla(0, 0%, 100%, 0.8);
   font-size: 1.6rem;
